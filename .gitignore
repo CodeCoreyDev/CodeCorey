@@ -1,0 +1,57 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.swn
+
+# React cache (optional)
+.cache/
+
+# Optional lock files
+package-lock.json
+yarn.lock
+
+# Coverage reports
+coverage/
+
+# Generated files
+*.out
+*.pid
+
+# Miscellaneous
+*.bak
+*.tmp
+*.temp
+*.log
+
+# Mac specific
+.AppleDouble
+.LSOverride
+
+# Windows specific
+desktop.ini
