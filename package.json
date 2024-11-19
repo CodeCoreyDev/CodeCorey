@@ -2,7 +2,7 @@
   "name": "codecorey",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://CodeCoreyDev.github.io/codecorey",
+  "homepage": "https://codecoreydev.github.io/codecorey",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
